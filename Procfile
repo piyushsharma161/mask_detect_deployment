@@ -1,0 +1,1 @@
+web: gunicorn app:hand_detection1
